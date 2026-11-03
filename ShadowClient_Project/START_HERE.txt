@@ -1,0 +1,12 @@
+SHADOW CLIENT - START HERE
+
+1) Open README.md and follow the GitHub Actions steps to build ShadowClient.exe in the cloud.
+2) Download the ShadowClient-Windows-x64 artifact.
+3) Run ShadowClient.exe. The first launch downloads the official PortableMC backend and then Minecraft/Fabric files.
+4) Enter a player name and click INSTALL & PLAY.
+5) Download the ShadowClient-Fabric-Mod artifact from the same Actions run and place its JAR in:
+   %APPDATA%\ShaDowTixi\ShadowClient\game\mods\
+6) Start the game again. Press F8 in-game to show/hide the SHADOW HUD.
+
+First launch requires internet. Minecraft game files are not included in this ZIP.
+Offline username profiles only work on servers that explicitly allow offline-mode players.

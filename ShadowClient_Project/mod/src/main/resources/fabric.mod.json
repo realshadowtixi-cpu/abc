@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "shadowclient",
+  "version": "${version}",
+  "name": "SHADOW CLIENT",
+  "description": "A lightweight personal PvP HUD and performance companion by ShaDowTixi.",
+  "authors": ["ShaDowTixi"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.shadowclient.ShadowClient"]
+  },
+  "mixins": [
+    "shadowclient.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,3 @@
+SHADOW CLIENT is an unofficial personal project and is not affiliated with Mojang Studios or Microsoft.
+Minecraft is proprietary software. No Minecraft client JAR, assets, fonts, sounds, or proprietary game files are included.
+PortableMC, Fabric Loader, Fabric API, and optional mods are separate third-party projects downloaded from their official or project-hosted distribution sources. Their respective names, licenses, and copyrights remain with their authors.
